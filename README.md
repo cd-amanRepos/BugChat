@@ -6,3 +6,9 @@ It is also possible that the same error was seen before but the solution was not
 So, you can directly connect with them using console.
 
 And if nothing works then this is a console based chatting application where you can chat with your teammates from console/command line/Ide directly. "For Funnn"
+
+
+
+
+**First Iteration**
+Just a normal console based chatting application.
